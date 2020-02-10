@@ -8,6 +8,13 @@ ul, a {
   color: forestgreen;
 }
 
+body {
+  margin: 30px;
+}
+
+p{
+  font-size: 18px;
+}
 .japanese{
     font-style: italic;
 }
