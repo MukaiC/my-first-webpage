@@ -4,7 +4,11 @@ header {
 h2 {
   color: dimgrey;
 }
-ul, a {
+ul li{
+  font-size: 18px;
+}
+
+a{
   color: forestgreen;
 }
 
