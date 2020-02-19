@@ -26,11 +26,20 @@ p{
 table{
   border: 1px solid dimgrey;
 }
+
 th, td{
   border: 1px solid dimgrey;
   padding: 5px;
   text-align: center;
 }
+
 th{
   background-color: lightblue;
+}
+
+#introjp{
+  font-size 15px;
+  background-color: lightpink;
+  color: white;
+  padding: 15px;
 }

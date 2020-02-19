@@ -3,14 +3,28 @@
   <head>
     <title>Introduction to Japanese</title>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="styles.css">
+    <style>
+      @media (min-width: 800px){
+        h2::before {
+          content:"Introduction to Japan and the Japanese language";
+        }
+      }
+      @media (max-width: 799px){
+        h2::before {
+          content:"Introduction to Japanese";
+        }
+      }
+    </style>
+
   </head>
   <body>
-      <h2>Introduction to Japanese</h2>
+      <h2 id="introjp"></h2>
+      <p>Are you completely new to Japanese? The following <span class="japanese">marugoto</span> links offer some basics about the langauge and Japan.</p>
         <ul>
-          <li><a href="https://a1.marugotoweb.jp/en/introduction.php#japan_knowledge">Japan</a></li>
+          <li><a href="https://a1.marugotoweb.jp/en/introduction.php#japan_knowledge">Some facts about Japan</a></li>
           <li><a href="https://a1.marugotoweb.jp/en/introduction.php#grammar">Grammar</a></li>
           <li><a href="https://a1.marugotoweb.jp/en/introduction.php#writing">Writing</a></li>
           <li><a href="https://a1.marugotoweb.jp/en/introduction.php#kanji">Kanji</a></li>
