@@ -1,0 +1,15 @@
+#introjp, .pheading {
+  font-size: 35px;
+  color: white;
+  padding: 15px;
+}
+
+.pheading {
+  background-color: lightblue;
+}
+
+#introjp {
+  background-color: lightpink;
+}
+
+/*# sourceMappingURL=styles2.css.map */

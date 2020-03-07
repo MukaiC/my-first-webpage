@@ -1,0 +1,16 @@
+
+%pheading{
+  font-size: 35px;
+  color: white;
+  padding: 15px;
+}
+
+.pheading{
+  @extend%pheading;
+  background-color: lightblue;
+}
+
+#introjp{
+  @extend%pheading;
+  background-color: lightpink;
+}
