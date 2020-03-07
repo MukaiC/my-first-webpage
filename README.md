@@ -1,3 +1,3 @@
 # Project 0
 
-Web Programming with Python and JavaScript
+For learners who are using Marugoto Starter A1 textbooks
