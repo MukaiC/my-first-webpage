@@ -1,3 +1,5 @@
+$bluebackground: lightblue;
+$pinkbackground: lightpink;
 
 %pheading{
   font-size: 35px;
@@ -7,10 +9,16 @@
 
 .pheading{
   @extend%pheading;
-  background-color: lightblue;
+  background-color: $bluebackground;
 }
 
 #introjp{
   @extend%pheading;
-  background-color: lightpink;
+  background-color: $pinkbackground;
+}
+
+ul{
+  li{
+      font-size: 18px;
+  }
 }

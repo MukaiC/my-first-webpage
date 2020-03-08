@@ -4,9 +4,6 @@ header {
 h2 {
   color: dimgrey;
 }
-ul li{
-  font-size: 18px;
-}
 
 a{
   color: forestgreen;
@@ -25,6 +22,7 @@ p{
 
 table{
   border: 1px solid dimgrey;
+  margin: 30px;
 }
 
 th, td{
@@ -35,4 +33,5 @@ th, td{
 
 th{
   background-color: lightblue;
+  color: white;
 }
