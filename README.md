@@ -1,4 +1,4 @@
-# Project 0
+# Project 0: Homepage
 
 * For people learning the Japanese language using [Marugoto](https://www.marugoto.org/en/) Starter A1 textbooks
 
