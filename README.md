@@ -1,3 +1,5 @@
 # Project 0
 
-For learners who are using Marugoto Starter A1 textbooks
+* For people learning the Japanese language using [Marugoto](https://www.marugoto.org/en/) Starter A1 textbooks
+
+* [Project](https://docs.cs50.net/web/2020/x/projects/0/project0.html) in CS50 Web Programming with Python and JavaScript (2018 version)  
